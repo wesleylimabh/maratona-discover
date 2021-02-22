@@ -207,6 +207,14 @@ td.income {
 td.expense {
   color: var(--red);
 }
+td.options {
+  display: flex;
+  justify-content: initial;
+}
+
+td.options :first-child {
+  margin-right: 2rem;
+}
 
 /* Modal ================================= */
 .modal-overlay {
