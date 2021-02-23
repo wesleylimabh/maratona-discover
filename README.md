@@ -14,7 +14,7 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido durante a **Maratona Discover da Rocketseat** e utiliza as seguintes tecnologias:
 
 - HTML
 - CSS
@@ -24,12 +24,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
-Foi realizado o deploy do projeto na Netlify e o mesmo pode ser acessado através [desse link](https://csb-6k4hz.netlify.app/)
+Foi realizado o deploy do projeto na Netlify e o mesmo pode ser acessado através [desse link](https://csb-6k4hz.netlify.app/).
 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+O layout do projeto foi desenhado pelo time da **Rocktseat** e pode ser visualizado através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
